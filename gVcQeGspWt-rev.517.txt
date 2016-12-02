@@ -1,0 +1,24 @@
+GitHub...
+
+1 Repository
+Ordner. Projekt
+für Dateien
+
+2 Branch
+master: 
+aktuelle Version
+weitere Version für Test, Bug-Fix
+
+3 commit
+Erstellt eine neue Version
+wie ein Snapshot
+=speichern
+
+4 Pull request, merge
+Versionsupdate, anfragen 
+
+5 Fork
+machen das Mitentwickeln bei fremden Projekten besonders einfach.
+Kopie erstellt
+Pull request möglich!
+
